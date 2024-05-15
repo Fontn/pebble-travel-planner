@@ -1,0 +1,6 @@
+/build
+/node_modules
+/pebble-clay
+
+# Keep api tokens in the file bellow
+/src/pkjs/APITokens.js
